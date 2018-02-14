@@ -26,7 +26,7 @@
 //    $localhost = "107.6.175.205";
     $localhost = "localhost";
     $username = "root";
-    $password = "akatsuki_codepanda";
+    $password = "";
     $db_name = "sisuper";
 
     //create connection
